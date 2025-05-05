@@ -1,6 +1,5 @@
 package io.quarkus.hapoliano.quarkussocial.domain.model;
 
-import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import jakarta.persistence.*;
 
